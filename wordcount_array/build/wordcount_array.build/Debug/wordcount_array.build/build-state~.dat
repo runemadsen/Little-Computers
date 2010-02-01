@@ -1,0 +1,69 @@
+Twordcount_array
+v7
+r0
+t286233283.485867
+cCheck dependencies
+cCompileC build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/main.o "/Users/Rune/Projects/Little Computers/wordcount_array/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/Rune/Projects/Little Computers/wordcount_array/build/Debug/wordcount_array" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Rune/Projects/Little Computers/wordcount_array/build/Debug/wordcount_array
+t2
+s0
+
+N/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/main.o
+t1264540476
+s3192
+
+N/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/wordcount_array.LinkFileList
+c000000004B5F5B43000000000000008B
+t1264540483
+s139
+
+N/Users/Rune/Projects/Little Computers/wordcount_array/main.c
+c000000004B5F5B410000000000000226
+t1264540481
+s550
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286233283#286233283#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/main.o "/Users/Rune/Projects/Little Computers/wordcount_array/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s286233283.471577
+e286233283.472579
+r1
+xCompileC
+xbuild/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/main.o
+x/Users/Rune/Projects/Little Computers/wordcount_array/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/Rune/Projects/Little Computers/wordcount_array/main.c286233283#286233283#0(199"/Users/Rune/Projects/Little Computers/wordcount_array/main.c: In function 'main':/Users/Rune/Projects/Little Computers/wordcount_array/main.c:15: warning: implicit declaration of function 'getChar'1(22@42"Implicit declaration of function 'getChar'286233283#82#117#0(6@60"/Users/Rune/Projects/Little Computers/wordcount_array/main.c286233281#15#0#15#0#36"implicit declaration of function '*'0(0#0#60"/Users/Rune/Projects/Little Computers/wordcount_array/main.c4300885448#1601"    cd "/Users/Rune/Projects/Little Computers/wordcount_array"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/wordcount_array-generated-files.hmap" "-I/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/wordcount_array-own-target-headers.hmap" "-I/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/wordcount_array-all-target-headers.hmap" -iquote "/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/wordcount_array-project-headers.hmap" "-F/Users/Rune/Projects/Little Computers/wordcount_array/build/Debug" "-I/Users/Rune/Projects/Little Computers/wordcount_array/build/Debug/include" "-I/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/DerivedSources/x86_64" "-I/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/DerivedSources" -c "/Users/Rune/Projects/Little Computers/wordcount_array/main.c" -o "/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Rune/Projects/Little Computers/wordcount_array/build/Debug/wordcount_array" normal x86_64
+s286233283.472629
+e286233283.485828
+r0
+xLd
+x/Users/Rune/Projects/Little Computers/wordcount_array/build/Debug/wordcount_array
+xnormal
+xx86_64
+oUndefined symbols:
+o  "_getChar", referenced from:
+o      _main in main.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@86"Link /Users/Rune/Projects/Little Computers/wordcount_array/build/Debug/wordcount_array286233283#286233283#0(132"Undefined symbols:  "_getChar", referenced from:      _main in main.old: symbol(s) not foundcollect2: ld returned 1 exit status4(4@28""_getChar", referenced from:286233283#19#31#0(6@0"286233283#0#0#0#0#0"0(13@15"_main in main.o286233283#50#22#0(6@0"286233283#0#0#0#0#0"0(13@19"Symbol(s) not found286233283#72#24#0(6@0"286233283#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status286233283#96#36#0(6@0"286233283#0#0#0#0#0"0(0#0#0"4300885448#615"    cd "/Users/Rune/Projects/Little Computers/wordcount_array"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Rune/Projects/Little Computers/wordcount_array/build/Debug" "-F/Users/Rune/Projects/Little Computers/wordcount_array/build/Debug" -filelist "/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/wordcount_array.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Rune/Projects/Little Computers/wordcount_array/build/Debug/wordcount_array"1#
+

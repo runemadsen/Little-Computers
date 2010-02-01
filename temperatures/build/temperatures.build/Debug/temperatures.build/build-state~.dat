@@ -1,0 +1,56 @@
+Ttemperatures
+v7
+r0
+t286223446.677318
+cCheck dependencies
+cCompileC build/temperatures.build/Debug/temperatures.build/Objects-normal/x86_64/main.o "/Users/Rune/Projects/Little Computers/temperatures/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Rune/Projects/Little Computers/temperatures/build/Debug/temperatures
+t2
+s0
+
+N/Users/Rune/Projects/Little Computers/temperatures/build/temperatures.build/Debug/temperatures.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Rune/Projects/Little Computers/temperatures/build/temperatures.build/Debug/temperatures.build/Objects-normal/x86_64/temperatures.LinkFileList
+c000000004B5F34D60000000000000082
+t1264530646
+s130
+
+N/Users/Rune/Projects/Little Computers/temperatures/main.c
+c000000004B5F34D30000000000000132
+t1264530643
+s306
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286223446#286223446#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/temperatures.build/Debug/temperatures.build/Objects-normal/x86_64/main.o "/Users/Rune/Projects/Little Computers/temperatures/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s286223446.675397
+e286223446.677270
+r0
+xCompileC
+xbuild/temperatures.build/Debug/temperatures.build/Objects-normal/x86_64/main.o
+x/Users/Rune/Projects/Little Computers/temperatures/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/Rune/Projects/Little Computers/temperatures/main.c286223446#286223446#0(525"/Users/Rune/Projects/Little Computers/temperatures/main.c: In function 'main':/Users/Rune/Projects/Little Computers/temperatures/main.c:8: error: expected ';' before numeric constant/Users/Rune/Projects/Little Computers/temperatures/main.c:15: error: 'celsius' undeclared (first use in this function)/Users/Rune/Projects/Little Computers/temperatures/main.c:15: error: (Each undeclared identifier is reported only once/Users/Rune/Projects/Little Computers/temperatures/main.c:15: error: for each function it appears in.)2(4@36"Expected ';' before numeric constant286223446#79#105#0(6@57"/Users/Rune/Projects/Little Computers/temperatures/main.c286223443#8#0#8#0#19"expected * before *0(4@49"'celsius' undeclared (first use in this function)286223446#184#119#0(6@57"/Users/Rune/Projects/Little Computers/temperatures/main.c286223443#15#0#15#0#43"'*' undeclared (first use in this function)0(0#0#57"/Users/Rune/Projects/Little Computers/temperatures/main.c4300885448#1514"    cd "/Users/Rune/Projects/Little Computers/temperatures"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Rune/Projects/Little Computers/temperatures/build/temperatures.build/Debug/temperatures.build/temperatures-generated-files.hmap" "-I/Users/Rune/Projects/Little Computers/temperatures/build/temperatures.build/Debug/temperatures.build/temperatures-own-target-headers.hmap" "-I/Users/Rune/Projects/Little Computers/temperatures/build/temperatures.build/Debug/temperatures.build/temperatures-all-target-headers.hmap" -iquote "/Users/Rune/Projects/Little Computers/temperatures/build/temperatures.build/Debug/temperatures.build/temperatures-project-headers.hmap" "-F/Users/Rune/Projects/Little Computers/temperatures/build/Debug" "-I/Users/Rune/Projects/Little Computers/temperatures/build/Debug/include" "-I/Users/Rune/Projects/Little Computers/temperatures/build/temperatures.build/Debug/temperatures.build/DerivedSources/x86_64" "-I/Users/Rune/Projects/Little Computers/temperatures/build/temperatures.build/Debug/temperatures.build/DerivedSources" -c "/Users/Rune/Projects/Little Computers/temperatures/main.c" -o "/Users/Rune/Projects/Little Computers/temperatures/build/temperatures.build/Debug/temperatures.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/Rune/Projects/Little Computers/temperatures/build/Debug/temperatures" normal x86_64
+r0
+

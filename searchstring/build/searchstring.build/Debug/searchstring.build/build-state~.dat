@@ -1,0 +1,64 @@
+Tsearchstring
+v7
+r0
+t286334177.650828
+cCheck dependencies
+cCompileC build/searchstring.build/Debug/searchstring.build/Objects-normal/x86_64/main.o "/Users/Rune/Projects/Little Computers/searchstring/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/Rune/Projects/Little Computers/searchstring/build/Debug/searchstring" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Rune/Projects/Little Computers/searchstring/build/Debug/searchstring
+t1264641377
+s9488
+
+N/Users/Rune/Projects/Little Computers/searchstring/build/searchstring.build/Debug/searchstring.build/Objects-normal/x86_64/main.o
+t1264641376
+s4292
+
+N/Users/Rune/Projects/Little Computers/searchstring/build/searchstring.build/Debug/searchstring.build/Objects-normal/x86_64/searchstring.LinkFileList
+c000000004B60E5610000000000000082
+t1264641377
+s130
+
+N/Users/Rune/Projects/Little Computers/searchstring/main.c
+c000000004B60E5600000000000000456
+t1264641376
+s1110
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286334177#286334177#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/searchstring.build/Debug/searchstring.build/Objects-normal/x86_64/main.o "/Users/Rune/Projects/Little Computers/searchstring/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s286334177.635994
+e286334177.636763
+r1
+xCompileC
+xbuild/searchstring.build/Debug/searchstring.build/Objects-normal/x86_64/main.o
+x/Users/Rune/Projects/Little Computers/searchstring/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/Rune/Projects/Little Computers/searchstring/main.c286334177#286334177#0(0"0(0#0#57"/Users/Rune/Projects/Little Computers/searchstring/main.c4300885448#1514"    cd "/Users/Rune/Projects/Little Computers/searchstring"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Rune/Projects/Little Computers/searchstring/build/searchstring.build/Debug/searchstring.build/searchstring-generated-files.hmap" "-I/Users/Rune/Projects/Little Computers/searchstring/build/searchstring.build/Debug/searchstring.build/searchstring-own-target-headers.hmap" "-I/Users/Rune/Projects/Little Computers/searchstring/build/searchstring.build/Debug/searchstring.build/searchstring-all-target-headers.hmap" -iquote "/Users/Rune/Projects/Little Computers/searchstring/build/searchstring.build/Debug/searchstring.build/searchstring-project-headers.hmap" "-F/Users/Rune/Projects/Little Computers/searchstring/build/Debug" "-I/Users/Rune/Projects/Little Computers/searchstring/build/Debug/include" "-I/Users/Rune/Projects/Little Computers/searchstring/build/searchstring.build/Debug/searchstring.build/DerivedSources/x86_64" "-I/Users/Rune/Projects/Little Computers/searchstring/build/searchstring.build/Debug/searchstring.build/DerivedSources" -c "/Users/Rune/Projects/Little Computers/searchstring/main.c" -o "/Users/Rune/Projects/Little Computers/searchstring/build/searchstring.build/Debug/searchstring.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Rune/Projects/Little Computers/searchstring/build/Debug/searchstring" normal x86_64
+s286334177.636813
+e286334177.650782
+r1
+xLd
+x/Users/Rune/Projects/Little Computers/searchstring/build/Debug/searchstring
+xnormal
+xx86_64
+lSLF07#2@80"Link /Users/Rune/Projects/Little Computers/searchstring/build/Debug/searchstring286334177#286334177#0(0"0(0#0#0"4300885448#588"    cd "/Users/Rune/Projects/Little Computers/searchstring"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Rune/Projects/Little Computers/searchstring/build/Debug" "-F/Users/Rune/Projects/Little Computers/searchstring/build/Debug" -filelist "/Users/Rune/Projects/Little Computers/searchstring/build/searchstring.build/Debug/searchstring.build/Objects-normal/x86_64/searchstring.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Rune/Projects/Little Computers/searchstring/build/Debug/searchstring"0#
+

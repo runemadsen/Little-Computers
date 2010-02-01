@@ -1,0 +1,64 @@
+Twordcount
+v7
+r0
+t286226844.491609
+cCheck dependencies
+cCompileC build/wordcount.build/Debug/wordcount.build/Objects-normal/x86_64/main.o "/Users/Rune/Projects/Little Computers/wordcount/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/Rune/Projects/Little Computers/wordcount/build/Debug/wordcount" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Rune/Projects/Little Computers/wordcount/build/Debug/wordcount
+t1264534044
+s9048
+
+N/Users/Rune/Projects/Little Computers/wordcount/build/wordcount.build/Debug/wordcount.build/Objects-normal/x86_64/main.o
+t1264534040
+s2936
+
+N/Users/Rune/Projects/Little Computers/wordcount/build/wordcount.build/Debug/wordcount.build/Objects-normal/x86_64/wordcount.LinkFileList
+c000000004B5F421C0000000000000079
+t1264534044
+s121
+
+N/Users/Rune/Projects/Little Computers/wordcount/main.c
+c000000004B5F421800000000000001B2
+t1264534040
+s434
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286226844#286226844#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/wordcount.build/Debug/wordcount.build/Objects-normal/x86_64/main.o "/Users/Rune/Projects/Little Computers/wordcount/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s286226844.476900
+e286226844.477732
+r1
+xCompileC
+xbuild/wordcount.build/Debug/wordcount.build/Objects-normal/x86_64/main.o
+x/Users/Rune/Projects/Little Computers/wordcount/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/Rune/Projects/Little Computers/wordcount/main.c286226844#286226844#0(0"0(0#0#54"/Users/Rune/Projects/Little Computers/wordcount/main.c4300885448#1427"    cd "/Users/Rune/Projects/Little Computers/wordcount"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Rune/Projects/Little Computers/wordcount/build/wordcount.build/Debug/wordcount.build/wordcount-generated-files.hmap" "-I/Users/Rune/Projects/Little Computers/wordcount/build/wordcount.build/Debug/wordcount.build/wordcount-own-target-headers.hmap" "-I/Users/Rune/Projects/Little Computers/wordcount/build/wordcount.build/Debug/wordcount.build/wordcount-all-target-headers.hmap" -iquote "/Users/Rune/Projects/Little Computers/wordcount/build/wordcount.build/Debug/wordcount.build/wordcount-project-headers.hmap" "-F/Users/Rune/Projects/Little Computers/wordcount/build/Debug" "-I/Users/Rune/Projects/Little Computers/wordcount/build/Debug/include" "-I/Users/Rune/Projects/Little Computers/wordcount/build/wordcount.build/Debug/wordcount.build/DerivedSources/x86_64" "-I/Users/Rune/Projects/Little Computers/wordcount/build/wordcount.build/Debug/wordcount.build/DerivedSources" -c "/Users/Rune/Projects/Little Computers/wordcount/main.c" -o "/Users/Rune/Projects/Little Computers/wordcount/build/wordcount.build/Debug/wordcount.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Rune/Projects/Little Computers/wordcount/build/Debug/wordcount" normal x86_64
+s286226844.477780
+e286226844.491554
+r1
+xLd
+x/Users/Rune/Projects/Little Computers/wordcount/build/Debug/wordcount
+xnormal
+xx86_64
+lSLF07#2@74"Link /Users/Rune/Projects/Little Computers/wordcount/build/Debug/wordcount286226844#286226844#0(0"0(0#0#0"4300885448#561"    cd "/Users/Rune/Projects/Little Computers/wordcount"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Rune/Projects/Little Computers/wordcount/build/Debug" "-F/Users/Rune/Projects/Little Computers/wordcount/build/Debug" -filelist "/Users/Rune/Projects/Little Computers/wordcount/build/wordcount.build/Debug/wordcount.build/Objects-normal/x86_64/wordcount.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Rune/Projects/Little Computers/wordcount/build/Debug/wordcount"0#
+

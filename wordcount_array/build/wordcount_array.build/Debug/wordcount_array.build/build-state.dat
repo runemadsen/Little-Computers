@@ -1,0 +1,95 @@
+Twordcount_array
+v7
+r0
+t286237584.746073
+cCheck dependencies
+cCompileC build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/main.o "/Users/Rune/Projects/Little Computers/wordcount_array/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/wordcount_array_functions.o "/Users/Rune/Projects/Little Computers/wordcount_array/wordcount_array_functions.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/Rune/Projects/Little Computers/wordcount_array/build/Debug/wordcount_array" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Rune/Projects/Little Computers/wordcount_array/build/Debug/wordcount_array
+t2
+s0
+
+N/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/main.o
+t1264541209
+s3184
+
+N/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/wordcount_array.LinkFileList
+c000000004B5F6966000000000000012B
+t1264544102
+s299
+
+N/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/wordcount_array_functions.o
+t1264544779
+s4088
+
+N/Users/Rune/Projects/Little Computers/wordcount_array/main.c
+c000000004B5F5E190000000000000226
+t1264541209
+s550
+i<stdio.h>
+
+N/Users/Rune/Projects/Little Computers/wordcount_array/wordcount_array_functions.c
+c000000004B5F6C280000000000000383
+t1264544808
+s899
+i<stdio.h>
+
+N/Users/Rune/Projects/Little Computers/wordcount_array/wordcount_array_functions.h
+c000000004B5F627D00000000000000A6
+t1264542333
+s166
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286237584#286237584#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/main.o "/Users/Rune/Projects/Little Computers/wordcount_array/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s286236902.601923
+e286236902.602929
+r1
+xCompileC
+xbuild/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/main.o
+x/Users/Rune/Projects/Little Computers/wordcount_array/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/Rune/Projects/Little Computers/wordcount_array/main.c286236902#286236902#0(0"0(0#0#60"/Users/Rune/Projects/Little Computers/wordcount_array/main.c7811904093197787136#1601"    cd "/Users/Rune/Projects/Little Computers/wordcount_array"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/wordcount_array-generated-files.hmap" "-I/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/wordcount_array-own-target-headers.hmap" "-I/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/wordcount_array-all-target-headers.hmap" -iquote "/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/wordcount_array-project-headers.hmap" "-F/Users/Rune/Projects/Little Computers/wordcount_array/build/Debug" "-I/Users/Rune/Projects/Little Computers/wordcount_array/build/Debug/include" "-I/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/DerivedSources/x86_64" "-I/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/DerivedSources" -c "/Users/Rune/Projects/Little Computers/wordcount_array/main.c" -o "/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/wordcount_array_functions.o "/Users/Rune/Projects/Little Computers/wordcount_array/wordcount_array_functions.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s286237584.731499
+e286237584.732359
+r1
+xCompileC
+xbuild/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/wordcount_array_functions.o
+x/Users/Rune/Projects/Little Computers/wordcount_array/wordcount_array_functions.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/Rune/Projects/Little Computers/wordcount_array/wordcount_array_functions.c286237584#286237584#0(0"0(0#0#81"/Users/Rune/Projects/Little Computers/wordcount_array/wordcount_array_functions.c4300885448#1643"    cd "/Users/Rune/Projects/Little Computers/wordcount_array"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/wordcount_array-generated-files.hmap" "-I/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/wordcount_array-own-target-headers.hmap" "-I/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/wordcount_array-all-target-headers.hmap" -iquote "/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/wordcount_array-project-headers.hmap" "-F/Users/Rune/Projects/Little Computers/wordcount_array/build/Debug" "-I/Users/Rune/Projects/Little Computers/wordcount_array/build/Debug/include" "-I/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/DerivedSources/x86_64" "-I/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/DerivedSources" -c "/Users/Rune/Projects/Little Computers/wordcount_array/wordcount_array_functions.c" -o "/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/wordcount_array_functions.o"0#
+
+CLd "/Users/Rune/Projects/Little Computers/wordcount_array/build/Debug/wordcount_array" normal x86_64
+s286237584.732407
+e286237584.746020
+r0
+xLd
+x/Users/Rune/Projects/Little Computers/wordcount_array/build/Debug/wordcount_array
+xnormal
+xx86_64
+old: duplicate symbol _main in /Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/wordcount_array_functions.o and /Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/main.o
+ocollect2: ld returned 1 exit status
+lSLF07#2@86"Link /Users/Rune/Projects/Little Computers/wordcount_array/build/Debug/wordcount_array286237584#286237584#0(428"ld: duplicate symbol _main in /Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/wordcount_array_functions.o and /Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/main.ocollect2: ld returned 1 exit statusCommand /Developer/usr/bin/gcc-4.2 failed with exit code 12(13@328"Duplicate symbol _main in /Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/wordcount_array_functions.o and /Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/main.o286237584#0#333#0(6@0"286237584#0#0#0#0#0"0(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1286237584#18446744073709551615#0#0(1@0"0(0#0#0"4300885448#615"    cd "/Users/Rune/Projects/Little Computers/wordcount_array"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Rune/Projects/Little Computers/wordcount_array/build/Debug" "-F/Users/Rune/Projects/Little Computers/wordcount_array/build/Debug" -filelist "/Users/Rune/Projects/Little Computers/wordcount_array/build/wordcount_array.build/Debug/wordcount_array.build/Objects-normal/x86_64/wordcount_array.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Rune/Projects/Little Computers/wordcount_array/build/Debug/wordcount_array"1#
+

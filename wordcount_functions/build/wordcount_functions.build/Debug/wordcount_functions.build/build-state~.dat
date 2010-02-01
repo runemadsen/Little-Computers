@@ -1,0 +1,64 @@
+Twordcount_functions
+v7
+r0
+t286237798.114699
+cCheck dependencies
+cCompileC build/wordcount_functions.build/Debug/wordcount_functions.build/Objects-normal/x86_64/main.o "/Users/Rune/Projects/Little Computers/wordcount_functions/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/Rune/Projects/Little Computers/wordcount_functions/build/Debug/wordcount_functions" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Rune/Projects/Little Computers/wordcount_functions/build/Debug/wordcount_functions
+t1264544998
+s9432
+
+N/Users/Rune/Projects/Little Computers/wordcount_functions/build/wordcount_functions.build/Debug/wordcount_functions.build/Objects-normal/x86_64/main.o
+t1264544858
+s4056
+
+N/Users/Rune/Projects/Little Computers/wordcount_functions/build/wordcount_functions.build/Debug/wordcount_functions.build/Objects-normal/x86_64/wordcount_functions.LinkFileList
+c000000004B5F6CE60000000000000097
+t1264544998
+s151
+
+N/Users/Rune/Projects/Little Computers/wordcount_functions/main.c
+c000000004B5F6CDC000000000000037B
+t1264544988
+s891
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286237798#286237798#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/wordcount_functions.build/Debug/wordcount_functions.build/Objects-normal/x86_64/main.o "/Users/Rune/Projects/Little Computers/wordcount_functions/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s286237798.100413
+e286237798.101367
+r1
+xCompileC
+xbuild/wordcount_functions.build/Debug/wordcount_functions.build/Objects-normal/x86_64/main.o
+x/Users/Rune/Projects/Little Computers/wordcount_functions/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Rune/Projects/Little Computers/wordcount_functions/main.c286237798#286237798#0(0"0(0#0#64"/Users/Rune/Projects/Little Computers/wordcount_functions/main.c4300885448#1717"    cd "/Users/Rune/Projects/Little Computers/wordcount_functions"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Rune/Projects/Little Computers/wordcount_functions/build/wordcount_functions.build/Debug/wordcount_functions.build/wordcount_functions-generated-files.hmap" "-I/Users/Rune/Projects/Little Computers/wordcount_functions/build/wordcount_functions.build/Debug/wordcount_functions.build/wordcount_functions-own-target-headers.hmap" "-I/Users/Rune/Projects/Little Computers/wordcount_functions/build/wordcount_functions.build/Debug/wordcount_functions.build/wordcount_functions-all-target-headers.hmap" -iquote "/Users/Rune/Projects/Little Computers/wordcount_functions/build/wordcount_functions.build/Debug/wordcount_functions.build/wordcount_functions-project-headers.hmap" "-F/Users/Rune/Projects/Little Computers/wordcount_functions/build/Debug" "-I/Users/Rune/Projects/Little Computers/wordcount_functions/build/Debug/include" "-I/Users/Rune/Projects/Little Computers/wordcount_functions/build/wordcount_functions.build/Debug/wordcount_functions.build/DerivedSources/x86_64" "-I/Users/Rune/Projects/Little Computers/wordcount_functions/build/wordcount_functions.build/Debug/wordcount_functions.build/DerivedSources" -c "/Users/Rune/Projects/Little Computers/wordcount_functions/main.c" -o "/Users/Rune/Projects/Little Computers/wordcount_functions/build/wordcount_functions.build/Debug/wordcount_functions.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Rune/Projects/Little Computers/wordcount_functions/build/Debug/wordcount_functions" normal x86_64
+s286237798.101418
+e286237798.114644
+r1
+xLd
+x/Users/Rune/Projects/Little Computers/wordcount_functions/build/Debug/wordcount_functions
+xnormal
+xx86_64
+lSLF07#2@94"Link /Users/Rune/Projects/Little Computers/wordcount_functions/build/Debug/wordcount_functions286237798#286237798#0(0"0(0#0#0"4300885448#651"    cd "/Users/Rune/Projects/Little Computers/wordcount_functions"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Rune/Projects/Little Computers/wordcount_functions/build/Debug" "-F/Users/Rune/Projects/Little Computers/wordcount_functions/build/Debug" -filelist "/Users/Rune/Projects/Little Computers/wordcount_functions/build/wordcount_functions.build/Debug/wordcount_functions.build/Objects-normal/x86_64/wordcount_functions.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Rune/Projects/Little Computers/wordcount_functions/build/Debug/wordcount_functions"0#
+
