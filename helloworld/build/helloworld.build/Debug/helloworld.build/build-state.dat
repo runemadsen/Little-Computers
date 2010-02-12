@@ -7,14 +7,33 @@ cCompileC build/helloworld.build/Debug/helloworld.build/Objects-normal/x86_64/ma
 cLd "/Users/Rune/Projects/Little Computers/helloworld/build/Debug/helloworld" normal x86_64
 
 N/Developer/SDKs/MacOSX10.6.sdk
-c000000004A769DAB00000000000000EE
-t1249287595
+c000000004ABBF0FD00000000000000EE
+t1253830909
 s238
 
 N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
 c000000004A5C14A70000000000004174
 t1247548583
 s16756
+
+N/Users/Rune/Projects/Little Computers/Repositories/Little-Computers/helloworld/build/Debug/helloworld
+t1264529931
+s8992
+
+N/Users/Rune/Projects/Little Computers/Repositories/Little-Computers/helloworld/build/helloworld.build/Debug/helloworld.build/Objects-normal/x86_64/helloworld.LinkFileList
+c000000004B5F320B000000000000007C
+t1264529931
+s124
+
+N/Users/Rune/Projects/Little Computers/Repositories/Little-Computers/helloworld/build/helloworld.build/Debug/helloworld.build/Objects-normal/x86_64/main.o
+t1264529928
+s2692
+
+N/Users/Rune/Projects/Little Computers/Repositories/Little-Computers/helloworld/main.c
+c000000004B5F33C0000000000000006F
+t1264530368
+s111
+i<stdio.h>
 
 N/Users/Rune/Projects/Little Computers/helloworld/build/Debug/helloworld
 t1264529931
@@ -39,6 +58,9 @@ CCheck dependencies
 r0
 lSLF07#2@18"Check dependencies286222742#286222742#0(0"0(0#1#0"4300885448#0"0#
 
+CCompileC build/helloworld.build/Debug/helloworld.build/Objects-normal/x86_64/main.o "/Users/Rune/Projects/Little Computers/Repositories/Little-Computers/helloworld/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/helloworld.build/Debug/helloworld.build/Objects-normal/x86_64/main.o "/Users/Rune/Projects/Little Computers/helloworld/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
 s286222731.838662
 e286222731.842019
@@ -51,6 +73,9 @@ xx86_64
 xc
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@63"Compile /Users/Rune/Projects/Little Computers/helloworld/main.c286222731#286222731#0(0"0(0#0#55"/Users/Rune/Projects/Little Computers/helloworld/main.c3275089324280537600#1456"    cd "/Users/Rune/Projects/Little Computers/helloworld"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Rune/Projects/Little Computers/helloworld/build/helloworld.build/Debug/helloworld.build/helloworld-generated-files.hmap" "-I/Users/Rune/Projects/Little Computers/helloworld/build/helloworld.build/Debug/helloworld.build/helloworld-own-target-headers.hmap" "-I/Users/Rune/Projects/Little Computers/helloworld/build/helloworld.build/Debug/helloworld.build/helloworld-all-target-headers.hmap" -iquote "/Users/Rune/Projects/Little Computers/helloworld/build/helloworld.build/Debug/helloworld.build/helloworld-project-headers.hmap" "-F/Users/Rune/Projects/Little Computers/helloworld/build/Debug" "-I/Users/Rune/Projects/Little Computers/helloworld/build/Debug/include" "-I/Users/Rune/Projects/Little Computers/helloworld/build/helloworld.build/Debug/helloworld.build/DerivedSources/x86_64" "-I/Users/Rune/Projects/Little Computers/helloworld/build/helloworld.build/Debug/helloworld.build/DerivedSources" -c "/Users/Rune/Projects/Little Computers/helloworld/main.c" -o "/Users/Rune/Projects/Little Computers/helloworld/build/helloworld.build/Debug/helloworld.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Rune/Projects/Little Computers/Repositories/Little-Computers/helloworld/build/Debug/helloworld" normal x86_64
+r0
 
 CLd "/Users/Rune/Projects/Little Computers/helloworld/build/Debug/helloworld" normal x86_64
 s286222731.842079
